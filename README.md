@@ -25,6 +25,7 @@ Validate user input to ensure it is within acceptable limits (e.g., sufficient b
 Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
 
 ****TASK 5 STUDENT COURSE REGISTRATION SYSTEM****
+
 Course Database: Store course information, including course code, title, description, capacity, and schedule.
 Student Database: Store student information, including student ID, name, and registered courses.
 Course Listing: Display available courses with details and available slots.
