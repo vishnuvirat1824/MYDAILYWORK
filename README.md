@@ -23,3 +23,10 @@ Create a class representing the user's bank account, which stores the account ba
 You can connect the ATM class with the user's bank account class to access and modify the account balance.
 Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
+
+****TASK 5 STUDENT COURSE REGISTRATION SYSTEM****
+Course Database: Store course information, including course code, title, description, capacity, and schedule.
+Student Database: Store student information, including student ID, name, and registered courses.
+Course Listing: Display available courses with details and available slots.
+Student Registration: Allow students to register for courses from the available options.
+Course Removal: Enable students to drop courses they have registered for.
